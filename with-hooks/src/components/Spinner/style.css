@@ -1,0 +1,6 @@
+.spinnerClass {
+  position: absolute;
+  left: 50%;
+  top: 45%;
+  z-index: 999;
+}
